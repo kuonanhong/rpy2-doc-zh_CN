@@ -1,14 +1,13 @@
-Documentation for rpy2
+RPy2 文档
 ======================
 
 
 .. ifconfig:: release.endswith('dev') or release[:-1].endswith('alpha')
 
    .. warning::
-      This documentation describe the rpy2 package version |version| on |today|.
-      The API is still changing with time, but snapshots should be good enough
-      for a number of applications. This is believed to be already better than the 
-      released 2.1.x branch.
+      这份文档适用与rpy2的2.3版本。\
+      现在的rpy2所提供的API还会随着时间变化，但是当前发布的版本已经可以满足大量应用的需求。\
+      我们确信当前的版本要比2.1.X分支更好。
       
       Although care is taken to keep the development branch functional
       at all times, and this documentation up-to-date, temporary issues may appear:
