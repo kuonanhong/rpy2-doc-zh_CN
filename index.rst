@@ -1,13 +1,13 @@
-RPy2 ÎÄµµ
+RPy2 æ–‡æ¡£
 ======================
 
 
 .. ifconfig:: release.endswith('dev') or release[:-1].endswith('alpha')
 
    .. warning::
-      Õâ·İÎÄµµÊÊÓÃÓërpy2µÄ2.3°æ±¾¡£\
-      ÏÖÔÚµÄrpy2ËùÌá¹©µÄAPI»¹»áËæ×ÅÊ±¼ä±ä»¯£¬µ«ÊÇµ±Ç°·¢²¼µÄ°æ±¾ÒÑ¾­¿ÉÒÔÂú×ã´óÁ¿Ó¦ÓÃµÄĞèÇó¡£\
-      ÎÒÃÇÈ·ĞÅµ±Ç°µÄ°æ±¾Òª±È2.1.X·ÖÖ§¸üºÃ¡£
+      è¿™ä»½æ–‡æ¡£é€‚ç”¨ä¸rpy2çš„2.3ç‰ˆæœ¬ã€‚\
+      ç°åœ¨çš„rpy2æ‰€æä¾›çš„APIè¿˜ä¼šéšç€æ—¶é—´å˜åŒ–ï¼Œä½†æ˜¯å½“å‰å‘å¸ƒçš„ç‰ˆæœ¬å·²ç»å¯ä»¥æ»¡è¶³å¤§é‡åº”ç”¨çš„éœ€æ±‚ã€‚\
+      æˆ‘ä»¬ç¡®ä¿¡å½“å‰çš„ç‰ˆæœ¬è¦æ¯”2.1.Xåˆ†æ”¯æ›´å¥½ã€‚
       
       Although care is taken to keep the development branch functional
       at all times, and this documentation up-to-date, temporary issues may appear:
