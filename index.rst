@@ -9,9 +9,8 @@ RPy2 文档
       现在的rpy2所提供的API还会随着时间变化，但是当前发布的版本已经可以满足大量应用的需求。\
       我们确信当前的版本要比2.1.X分支更好。
       
-      Although care is taken to keep the development branch functional
-      at all times, and this documentation up-to-date, temporary issues may appear:
-      please remember that this is software under development.
+      即使我们一直关注各种功能性的问题，并且及时的更新文档，但是总会难免产生一些错误：\
+      希望您能理解，RPy2仍在开发之中。
 
 
 .. only:: html

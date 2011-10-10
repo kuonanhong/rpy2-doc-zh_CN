@@ -1,12 +1,12 @@
-Porting code to rpy2
+移植代码到rpy2
 ====================
 
 
-From R
-------
+从R移植
+---------
 
-From rpy
---------
+从rpy移植
+-----------
 
 Compatibility layer
 ^^^^^^^^^^^^^^^^^^^
@@ -26,11 +26,10 @@ also working with version 2.1, but cannot use new features for obvious
 compatibility reasons).
 
 
-Setting up
+创建
 """"""""""
 
-rpy2 can hide more of the R layer, providing an interface that only
-requires Python knowledge.
+rpy2包装了R层的操作，提供了只需要Python知识就能使用的R接口。
 
 .. code-block:: python
 
@@ -157,7 +156,7 @@ to be mostly absent from such obejcts in the standard library
 Practically, this means that the following name changes occurred:
 
 +----------------------+-------------+
-| old name             | new name    |
+| 旧名字               | 新名字      |
 +======================+=============+
 | :mod:`rpy2.robjects`               |
 +----------------------+-------------+
@@ -180,7 +179,7 @@ Class names prefixed with the letter `R` were cleaned from that prefix.
 For example, `RVector` became `Vector`, `RDataFrame` became `DataFrame`, etc...
 
 +---------------+--------------+
-| old name      | new name     |
+| 旧名字        | 新名字       |
 +===============+==============+
 | :mod:`rpy2.robjects`         |
 +---------------+--------------+
